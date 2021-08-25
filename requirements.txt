@@ -1,0 +1,10 @@
+SpeechRecognition
+monkeylearn
+moviepy
+boto3
+language-tool-python
+librosa
+pandas
+numpy 
+textblob
+numba==0.49.1rc1
