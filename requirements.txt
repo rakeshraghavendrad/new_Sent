@@ -1,0 +1,9 @@
+SpeechRecognition
+monkeylearn
+moviepy
+boto3
+language-tool-python
+librosa
+pandas
+numpy 
+textblob
